@@ -92,7 +92,7 @@ export default function IntroAnimation({ onComplete }: IntroAnimationProps) {
               animate="visible"
             >
               <p className="text-lg">
-                This is not the actual implementation, this is just a showcase. The responses are fake. To view the actual implementation, visit{' '}
+                This is not the actual implementation, this is just a showcase. The responses are fake. More details in the Limitations part of the README file. To view the actual implementation, please visit{' '}
                 <a
                   href="https://github.com/saad4534/logistics-microservices"
                   target="_blank"
